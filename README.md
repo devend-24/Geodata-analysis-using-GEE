@@ -1,4 +1,5 @@
 # 🌍 Land Cover Classification using Google Earth Engine
+GEE link: https://code.earthengine.google.com/55d19309f92ede086270375a71af6af8
 
 ## 📊 Project Overview
 
